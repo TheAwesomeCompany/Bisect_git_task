@@ -1,17 +1,18 @@
 <!DOCTYPE HTML>
 <html>
 
-<head>
-  <link rel="stylesheet" href="style.css">
-</head>
 <body>
 <ul>
-  <li><a href="default.asp">Home</a></li>
+  <li><a href="home.html">Home</a></li>
   <li><a href="news.asp">News</a></li>
   <li><a href="contact.asp">Contact</a></li>
   <li><a href="about.asp">About</a></li>
 </ul>
-Try it yourself »
+<<<<<<< 92fa36e0c5c7b1c5ddb6afe6700af79580fae9b9
+Try it yourself ?
+=======
+Try it yourself Â»
+>>>>>>> fixed, again
 
   <p>Header...</p>
 
@@ -27,7 +28,6 @@ Try it yourself »
   <p>...Footer</p>
   <p>...Footer1</p>
   <p>...Footer2</
-  <p>...Footer2</p>
   <p>...Footer3</p>
 
 </body>
