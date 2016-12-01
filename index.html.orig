@@ -1,23 +1,24 @@
 <!DOCTYPE HTML>
 <html>
 
-<head>
-  <link rel="stylesheet" href="style.css">
-</head>
 <body>
 <ul>
-  <li><a href="default.asp">Home</a></li>
+  <li><a href="home.html">Home</a></li>
   <li><a href="news.asp">News</a></li>
   <li><a href="contact.asp">Contact</a></li>
   <li><a href="about.asp">About</a></li>
 </ul>
-Try it yourself �
+<<<<<<< 92fa36e0c5c7b1c5ddb6afe6700af79580fae9b9
+Try it yourself ?
+=======
+Try it yourself »
+>>>>>>> fixed, again
 
   <p>Header...</p>
 
-  <h1>Я что-нибудь сделал!</h1>
+  <h1>Hello, World!</h1>
   <script src="init.js"></script>
-<img src="145753726612217080.png">
+<img src="logo.png">
 <strong> <a href="http://active.kh.ua" type="_blank">Bamperball</a><br/></strong>
   <a href="https://theawesome.click" type="_blank">TAC</a><br/>
   <a href="http://git-course.theawesome.click" type="_blank">TAC Course Git</a><br/>
@@ -27,7 +28,6 @@ Try it yourself �
   <p>...Footer</p>
   <p>...Footer1</p>
   <p>...Footer2</
-  <p>...Footer2</p>
   <p>...Footer3</p>
 
 </body>
